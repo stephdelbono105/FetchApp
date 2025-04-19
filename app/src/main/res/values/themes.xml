@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.FetchApp" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">#FFA000</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>
+
+
+
+
+
+
+
+
+
+
